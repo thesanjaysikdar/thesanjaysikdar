@@ -1,14 +1,14 @@
-## 👋 Hi, My name is Sanjay Sikdar.
+## 👋 Hi there, I'm Sanjay Sikdar!
 
-I'm a passionate, self-taught full-stack developer based in Kolkata, India. 🌱 I'm a perfectionist and have a keen eye for core knowledge. 👀
-
+I'm a self-taught full-stack developer living in Kolkata, India 🌱. I love learning and making things perfect. I have a sharp eye for detail and always strive for excellence in my work.
 
 ## Skills
 
-I work mainly with Python, Django, Django Rest Framework, Node.js, Next.js, and on DevOps. My skills include:
+I primarily work with Python, Django, Django Rest Framework, Node.js, and Next.js, focusing on both backend and frontend development. Additionally, I specialize in DevOps practices to ensure smooth deployment and operation of software systems. 
 
-[![](https://img.shields.io/twitter/follow/znas_sanjay)](https://twitter.com/znas_sanjay) [![](https://img.shields.io/github/followers/sannjayy?style=social)](https://github.com/sannjayy) 
+[![](https://img.shields.io/twitter/follow/znas_sanjay)](https://twitter.com/sannjayy_dev) [![](https://img.shields.io/github/followers/sannjayy?style=social)](https://github.com/sannjayy) 
 
+My skill set includes:
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50" height="50" />
@@ -33,7 +33,8 @@ I work mainly with Python, Django, Django Rest Framework, Node.js, Next.js, and 
 - 🌏 [www.sanjaysikdar.dev](https://www.sanjaysikdar.dev) 
 - 📖 [read.sanjaysikdar.dev](https://read.sanjaysikdar.dev)
 - 📦 [pypi releases](https://pypi.org/user/sannjayy/) | [npm releases](https://www.npmjs.com/~sannjayy)
-- 📫 hello@sanjaysikdar.dev
+- 📫 <me@sanjaysikdar.dev>
+
 
 Thanks for checking my profile! You are awesome ❤️ ❤️‍🔥
 
